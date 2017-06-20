@@ -1,2 +1,2 @@
-# Availibility Search for Firesale
+# Availability Search for Firesale
 
